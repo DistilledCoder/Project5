@@ -16,7 +16,10 @@ public class DemoTest5 {
 			System.out.println("Greater Than");
 		} else {
 			System.out.println("Less Than");
+			
+		}
 }
+		
 	
 	public void add(int a, int b) {
 		System.out.println(a+ b);
